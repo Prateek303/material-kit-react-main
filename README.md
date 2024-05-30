@@ -6,3 +6,7 @@
 - **Install:** `yarn install`
 - **Start:** `yarn dev`
 - **Build:** `yarn build`
+
+Functionality of blogs was added and modified 
+As I have no hands-on practice on react, the things understood by me I have implemented.
+And the task was to design only the web site using a react template no backend was involved.
